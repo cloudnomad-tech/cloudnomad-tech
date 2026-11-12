@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title">
+<title id="title">CloudNomad platform engineer terminal hero</title>
+<defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1222"/><stop offset="1" stop-color="#131d31"/></linearGradient><pattern id="mesh" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M 42 0 L 0 0 0 42" fill="none" stroke="#33415d" opacity=".25"/></pattern></defs>
+<rect width="1200" height="330" rx="19" fill="url(#p)"/><rect width="1200" height="330" rx="19" fill="url(#mesh)"/>
+<rect width="1200" height="46" rx="18" fill="#202c43"/><rect y="25" width="1200" height="22" fill="#202c43"/>
+<circle cx="24" cy="23" r="7" fill="#fc6d72"/><circle cx="47" cy="23" r="7" fill="#f9c65d"/><circle cx="70" cy="23" r="7" fill="#47c98c"/>
+<text x="600" y="29" fill="#b9cbe3" font-size="14" font-family="monospace" text-anchor="middle">cloudnomad@platform — ~/about</text>
+<text x="65" y="88" fill="#71deb5" font-size="19" font-family="monospace">❯ whoami</text>
+<text x="65" y="159" fill="#e7f7fc" font-size="63" font-weight="bold" font-family="Arial,Helvetica,sans-serif">Cloud<tspan fill="#5de2bd">Nomad</tspan></text>
+<text x="65" y="200" fill="#cad4e6" font-size="23" font-family="Arial,Helvetica,sans-serif">Lead Full Stack Engineer / AI &amp; Cloud Platforms</text>
+<text x="65" y="242" fill="#71deb5" font-size="19" font-family="monospace">❯ build --reliable --secure --scalable</text>
+<text x="65" y="287" fill="#8699b2" font-size="17" font-family="monospace">Python  ·  Go  ·  Node.js  ·  React  ·  RAG  ·  MCP</text>
+</svg>

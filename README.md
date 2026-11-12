@@ -11,9 +11,9 @@
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Designing%20for%20scale-12352f?style=flat-square&logo=github&logoColor=white" alt="Status: designing for scale" />
-  <img src="https://img.shields.io/badge/FOCUS-Enterprise%20AI-22375b?style=flat-square&logo=openai&logoColor=white" alt="Enterprise AI" />
-  <img src="https://img.shields.io/badge/TOOLS-Python%20%7C%20Go%20%7C%20TS-3b2754?style=flat-square&logo=typescript&logoColor=white" alt="Python, Go and TypeScript" />
+  <img src="assets/local-01.svg" alt="Status: designing for scale" />
+  <img src="assets/local-02.svg" alt="Enterprise AI" />
+  <img src="assets/local-03.svg" alt="Python, Go and TypeScript" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ $ engineer --capabilities
 
 <!-- Optional GitHub metrics after you have created the matching account.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudnomad-tech&show_icons=true&theme=transparent" alt="GitHub statistics" />
+  
 </p>
 -->
 
